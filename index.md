@@ -1,93 +1,101 @@
 ---
 layout: cv
-title: CV Tony Deboschère
+title: CV Marc Pezzetti
 ---
-# Tony Deboschère
-Architecte logiciel / Devops - 16 ans d'expérience
+# Marc Pezzetti
+Consultant Java / Tech Lead - 12 ans d'expérience
 
 
 <div id="webaddress">
-<a href="mailto:tde@neovia.fr">tde@neovia.fr</a>
+<a href="mailto:mpe@neovia.fr">mpe@neovia.fr</a>
 | <a href="http://www.neovia.fr">Néovia</a>
 </div>
 
 
 ## Actuellement
 
-__Architecte Devops pour ADS Géo depuis Octobre 2018__
+__Technical Leader pour Sopra Steria Group depuis Mai 2019__
 
 ## Spécialité
 
-Architecture backend, Forges logicielles 
+Architecture backend
 
 ## Compétences
 
 * __Langages :__ Java, Javascript
-* __BDD :__ MongoDB, Postgresql, Mysql, ...
+* __BDD :__ Mysql, Oracle, MongoDB ...
 * __Méthodes et outils :__ Git, IntellIJ, Eclipse
 * __Forges logicielles :__ Gitlab, Jenkins, Ansible
-* __Frameworks :__ Spring, JHipster,VertX, Angular
-* __Devops :__ GCP, Kubernetes, Docker, Helm
+* __Frameworks :__ Spring, JHipster, Angular, ...
+* __Devops :__ Kubernetes, Docker, OpenShift
 
 ## Formation
 
-`2003`
-__Diplomé de l'EPITA, spécialité MMA__
+`2007`
+__Diplome Master 2, spécialité IRR (Intelligence artificielle, Robotique et Reconnaissance des formes)__
 
-`1999`
-__Classes préparatoires aux grandes écoles (TSI)__
-
-`1997`
-__BAC STI Génie Electronique__
+`2002`
+__BAC S__
 
 
 ## Missions
 
-`Depuis 10/2018`
-__ADS Géo__, Toulouse
+`Depuis 05/2019`
+__Sopra Steria Group__, Toulouse
 {: .hrtde }
-- __Rôle :__ Architecte DEVOPS
-- __Projet Agrifactory :__
-  - Le projet Agrifactory a pour but de mettre en place une plateforme de service métiers dans le cloud (GKE). Les enjeux sont la réduction du Time to Market et la mutualisation des coûts d'exploitation, permettant ainsi la création de nouveaux services plus facilement.
+- __Rôle :__ Technical Leader
+- __Projet Custom'it :__
+  - Le projet Custom’it permet la création de template de questionnaire pour l’aménagement de la cabine pour l’ensemble des familles d’avions. Cette application est destinée à être consulté devant client.
 - __Compétences :__ 
-  - GITLAB CI / DEVOPS
+  - Encadrement technique
   - Architecture micro-services
+  - Kubernetes, Docker, OpenShift
+  - Node JS, Angular 7
+
+- __Projet CAD CSIP :__
+  - Le projet CAD CSIP permet la récupération de données dans différents systèmes et la création de questionnaire de satisfaction pour la livraison d’avions aux compagnies aériennes.
+- __Compétences :__ 
+  - MCO
+  - Java / J2EE
   - Docker
-  - Kubernetes
-  - Google Cloud Platform
   
-`09/2017 - 09/2018`
-__Thales Alenia Space__, Toulouse
+`02/2019 - 04/2019`
+__BSB Aviation__, Toulouse
 {: .hrtde }
-- __Rôle :__ Architecte Logiciel AJM et Commons
-- __Projet Spaceops :__
-  - Anti Jamming Management : Service de gestion des couvertures d’anti-brouillage. (DRSF)
-  - Commons : Briques fonctionnelles communes à toute l'équipe spaceops.
+- __Rôle :__ Consultant Java Senior
+- __Projet OEM Portal :__
+  - Le projet OEM Portal permet la consultation et la demande de cotation de pièces d’avion pour les partenaires de la société BSB aviation.
 - __Compétences :__ 
   - Architecture micro-services
-  - Vert.x / Spring boot
-  - Angular 5
-  - Postgresql / MongoDB
-  - Ansible / DEVOPS
-  - Méthodes Agiles ( SCRUM, Agile à l'échelle ) 
+  - Spring boot, JHipster
+  - Angular 6
+  - MariaDB / Oracle
 
-`01/2017 à 08/2017`
-__Thales Alenia Space__, Toulouse
-{: .hrtde }
-- __Rôle :__ Architecte Logiciel 
-- __Projet TSP :__ Le projet Time Service Provider (TSP) est une infrastructure dont la mission est de donner la référence temporelle UTC pour l’environnement Galileo. Ses missions : 
-  - Mise à disposition du pilotage de l'heure du système Galileo (GST) par rapport à l'UTC
-  - Prédiction du décalage GST-UTC
-  - Mise à disposition d'une surveillance avancée des horloges GST et des équipements bord
+- __Projet OCR Analysis :__
+  - Le projet OCR Analysis permet la demande de cotation de pièces d’avion pour les partenaires de la société BSB aviation via une application mobile faisant du traitement d’images (pour les numéros de séries des pièces ainsi que la quantité).
 - __Compétences :__ 
-  - Spring Boot 
-  - Angular 1.5
-  - MongoDB
-  - Gitlab / Ansible
-  - Méthodes Agiles ( SCRUM ) 
+  - Ionic
+  - EJB
+  - Angular 6
+  - Spring / Hibernate
+  - OpenCV, Tesseract
+  - MariaDB / Oracle
+
+`09/2017 à 01/2019`
+__IBM__, Toulouse
+{: .hrtde }
+- __Rôle :__ Consultant Java Senior
+- __Projet AIRMAN Web :__ Le projet Airman Web permet la réception, au sol,  de messages avion pour avoir une maintenance plus efficace et ainsi minimiser le temps d’immobilisation de l’avion.
+Il s’agit d’un produit actuellement en production et utilisé par plusieurs compagnies.
+- __Compétences :__ 
+  - Java
+  - JBoss 
+  - JMS
+  - EJB / Hibernate
+  - Oracle 
 
 
-`12/2015 à 01/2017`
+`04/2016 à 08/2017`
 __Orange__, Toulouse
 {: .hrtde }
 - __Rôle :__ Consultant Expert Java 
@@ -99,86 +107,47 @@ Il s’agit d’une refonte d’un système existant sur des technologies Java/J
   - Postgresql
   - Ansible / DEVOPS
   - Méthodes Agiles ( SCRUM ) 
-
-`08/2015 à 11/2015`
-__Medicalliance__, Toulouse
-{: .hrtde }
-- __Rôle :__ Architecte logiciel Fullstack 
-- __Projet Backoffice :__ Le projet Backoffice est une application web developpée sur la stack JHipster (Angular, Mongo, SpringBoot).
-La fonction de ce projet est d’aider les équipes à composer un catalogue de produits desitné à l’impression papier.
+ 
+ - __Projet NewRose :__ Refonte de l’application ROSE, dont l’objectif est de router les services entre les applications du SI d’Orange et les plateformes TV.
+Dans le but de pérenniser cette plateforme, d’améliorer sa robustesse et de s’assurer de sa scalabilité, l’architecture et les composants logiciels ont été rénovés from scratch.
 - __Compétences :__ 
-  - Spring Boot
-  - AngularJS 1.5
-  - MongoDB
-  - Ansible / DEVOPS
+  - Java EJB 3
+  - CXF
+  - JMS
+  - MySQL
   - Méthodes Agiles ( SCRUM )
 
-`06/2011 à 07/2015`
-__CIRSO__, Toulouse
+`10/2013 à 03/2016`
+__Air France via GFI__, Toulouse
 {: .hrtde }
-- __Rôle :__ Consultant Expert Java GWT
-- __Projet OPUS :__  Le projet Opus est une projet client serveur, qui permet la gestion des organigrammes des URSSAF.
-- __Projet ODEA/ODE :__ Le projet Odea est une nouvelle brique technique qui s’inscrit dans le plan de rénovation du système d’information des URSSAF. Il s’agit d’un brique qui permet de transférer des messages en fonction de règles métier issues d’applications éxistentes.
-  Les messages sont enrichis par Odea avant d’être transférés à destination
+- __Rôle :__ Consultant Java Senior 
+- __Projet FB API :__ Création de web services REST pour orchestrer les web services SOAP préexistants pour la gestion de la fidélisation FlyingBlue
 - __Compétences :__ 
-  - Java / Spring
-  - GWT 2.5
-  - Postgresql
-  - Apache CXF
-  - Eclipse RCP 
+  - Java
+  - Spring REST
+  - RestEasy
+  - Git / SonarQube / Bamboo
+  - Méthodes Agiles ( SCRUM )
   
-`01/2010 à 05/2011`
-__EXANE__, Paris
+__Airbus via GFI__, Toulouse
 {: .hrtde }
-- __Rôle :__ Consultant Expert Java GWT
-- __Projet Datacenter :__ Le projet Datacenter est le portail qui permet la diffusion des différentes publications des analystes d'Exane.
-- __Projet Easychat :__ Le projet Easychat est un tout nouveau canal de diffusion d’informations d’Exane. Il permet à ses clients d’avoir accès aux différents commentaires des analystes en direct.
-- __Projet WebConverter :__ Le  projet WebConverter est une solution articulée autour des capacités de conversion d’OpenOffice. Il s’agit d’un webservice permettant la conversion de document rtf vers de l’html. Ce service est ensuite utilisé par le projet Datacenter.
+- __Rôle :__ Consultant Java Senior 
+- __Projet FB API :__ Création de web services REST pour orchestrer les web services SOAP préexistants pour la gestion de la fidélisation FlyingBlue
 - __Compétences :__ 
-  - Java / Spring
-  - Ext JS
-  - Postgresql
-  - Apache CXF  
-  - Flex
+  - Java
+  - Spring REST
+  - RestEasy
+  - Git / SonarQube / Bamboo
+  - Méthodes Agiles ( SCRUM )
 
-`10/2007 à 12/2009`
-__MANPOWER__, Paris
-{: .hrtde }
-- __Rôle :__ Consultant Expert Java/Flex
-- __Projet Gestion de Commandes :__ Le projet HOMA s’occupe de la gestion des commandes. Cette application permet de répondre aux besoins en resources humaines des clients de Manpower
-- __Projet SIDE :__ Le projet SIDE a été développé afin de répondre à l'appel d'offre Pole-Emploi. Il s'agit de pouvoir suivre le processus de placement des candidats faisant partie de l'offre.
-- __Projet Contacteur SMS :__ Le projet Contacteur SMS s'inscrit dans la continuité des travaux déjà effectués avec la cellule architecture. Après avoir fourni une brique métier d'envois de SMS reposant sur le dépot de fichier sur un serveur FTP, le nouveau contacteur s'appuie sur des webservices nouvellement offerts par le prestataire SMS.
-- __Cellule Architecture Transverse :__ Participation au développement d'un framework JAVA / FLEX evitant le code boilerplate et mettant en place les normes de codage pour les nouveaux projets Java/Flex
-- __Compétences :__ 
-  - Java / Spring
-  - Hibernate
-  - Postgresql
-  - Apache CXF  
-  - Flex
-
-`09/2003 à 09/2006`
-__Anciennes Missions__, Paris
-{: .hrtde }
-- __Rôle :__ De développeur junior à expert.
-- __Description :__ Début de carrière sur Paris toujours dans la prestation de service aux seins de multiples comptes en régie et au forfait, notamment chez :
-  - MANPOWER
-  - IBM
-  - Canal Plus
-  - SPEIG
-  - KLEPIERRE
-  - BOUYGUES CONSTRUCTION
-  - CREDIT AGRICOLE SA
-  - CLARINS
-  - IPERCAST
-  - BAOBAZ 
 
 ## Centre d'inétêts
 
-Développement logiciel, Arts martiaux, Science-Fiction
+Développement logiciel, Films, Animation, Sports
 
 <!-- ### Footer
 
-Dernière mise à jour : 14/09/2018
+Dernière mise à jour : 26/05/2020
 
 -->
 
