@@ -238,7 +238,7 @@ __SOPRA Group / Thales Avionics / Airbus / DGAC__, Toulouse
   - Oracle
 
 - __Rôle:__ Consultant Expert Java
-- __Projet  ACTIVATED:__ Application client riche permettant d’uploader des fichiers sur un serveur centralisé. Ces fichiers sont stockés avec une série de mot-clés à l’aide de web services.
+- __Projet ACTIVATED:__ Application client riche permettant d’uploader des fichiers sur un serveur centralisé. Ces fichiers sont stockés avec une série de mot-clés à l’aide de web services.
 - __Compétences:__
   - Java / J2EE
   - Axis
@@ -246,7 +246,8 @@ __SOPRA Group / Thales Avionics / Airbus / DGAC__, Toulouse
   - Oracle
   
 - __Rôle:__ Consultant Expert Java
-- __Projet  ICD2DBC:__ Application client lourd permettant la conversion de fichiers ICD (format CSV) vers un fichier DBC (format texte). Le nouveau fichier ainsi créé pourra s’adapter à d’autres outils. Il contiendra la liste des signaux qui transitent sur le bus sélectionné (pour un équipement donné).
+- __Projet ICD2DBC:__ 
+- Application client lourd permettant la conversion de fichiers ICD (format CSV) vers un fichier DBC (format texte). Le nouveau fichier ainsi créé pourra s’adapter à d’autres outils. Il contiendra la liste des signaux qui transitent sur le bus sélectionné (pour un équipement donné).
 - __Compétences:__
   - Java
   - Inosetup
