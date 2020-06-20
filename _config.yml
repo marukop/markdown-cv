@@ -1,2 +1,4 @@
 markdown:   kramdown
 style:  tde
+
+theme: jekyll-theme-midnight
