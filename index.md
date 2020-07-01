@@ -132,16 +132,7 @@ __Air France via GFI__, Toulouse
 __Airbus via GFI__, Toulouse
 {: .hrtde }
 - __Rôle :__ Consultant Java Senior 
-- __Projet FB API :__ Création de web services REST pour orchestrer les web services SOAP préexistants pour la gestion de la fidélisation FlyingBlue
-- __Compétences :__ 
-  - Java
-  - Spring REST
-  - RestEasy
-  - Git / SonarQube / Bamboo
-  - Méthodes Agiles ( SCRUM )
-  
- - __Rôle :__ Consultant Java Senior 
- - __Projet ADCN Workbench:__ Application client lourd qui permet la génération d’un NCD (Network Configuration Data) validé.
+- __Projet ADCN Workbench:__ Application client lourd qui permet la génération d’un NCD (Network Configuration Data) validé.
 - __Compétences :__
   - Java
   - JXL
