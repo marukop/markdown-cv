@@ -308,7 +308,7 @@ __Ormes__, Toulouse
 
 
 
-## Centre d'inétêts
+## Centre d'intérêts
 
 Développement logiciel, Films, Animation, Sports
 
