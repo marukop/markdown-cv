@@ -14,7 +14,7 @@ Consultant Java / Tech Lead - 12 ans d'expérience
 
 ## Actuellement
 
-__Technical Leader pour Sopra Steria Group depuis Mai 2019__
+__Consultant Java Senior, DEV/OPS actuellement disponible__
 
 ## Spécialité
 
@@ -40,7 +40,7 @@ __BAC S__
 
 ## Missions
 
-`Depuis 05/2019`
+`05/2019 - 06/2020`
 __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
