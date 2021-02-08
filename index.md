@@ -14,7 +14,7 @@ Consultant Java / Tech Lead - 12 ans d'expérience
 
 ## Actuellement
 
-__Consultant Java Senior, DEV/OPS actuellement disponible__
+__Consultant Java Senior, DEV/OPS__
 
 ## Spécialité
 
@@ -40,10 +40,33 @@ __BAC S__
 
 ## Missions
 
+`Depuis 07/2020`
+__Sopra Steria Group__, Toulouse
+{: .hrtde }
+- __Rôle :__ Technical Leader
+- __DOUANE (DGDDI) :__
+  - Pôle Fiscalité : 
+    - Projet MVV : Ce projet permet la création et la consultation de Mouvements VitiVinicoles pour les entreprises.
+    - Projet FIDEL : Ce projet permet la consultation des fiches d'identités des entreprises.
+    - Projet DRIVE/TETICE : Ces deux projets partagent un même coeur générique et permettent la gestion de TSVR (Taxe Spéciale sur certains Véhicules Routiers).
+    - Projet TSVR : Ce projet permet de déclarer et de consulter différents types de taxes TSVR.
+    - Projet MCB : Ce projet permet la gestion des télépaiement des taxes par carte bancaire.
+    - Projet TLP : Ce projet permet l'adhésion et le télépaiement des taxes pour les opérateurs.
+  - Pôle Lutte Contre la Fraude : 
+    - Projet LRPDJ : Ce projet permet la rédaction des procédures de la douane judiciaire.
+    - Projet Garance NG : Ce projet permet la rédaction des actes, des notes et de la circulation des écrits.
+    - Projet Simulateur de Mutation : Industrialisation d'un POC (Proof Of Concept) pour permettre aux agents douaniers de connaître les statistiques sur attributions des mutations sur un barême de points. 
+- __Compétences :__
+  - Encadrement technique
+  - Kubernetes, Helm, Docker, Gitlab CI, Jenkins
+  - Java 8/11, Spring Boot, Angular 7
+
+
 `05/2019 - 06/2020`
 __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
+- __AIRBUS :__  
 - __Projet Custom'it :__
   - Le projet Custom’it permet la création de template de questionnaire pour l’aménagement de la cabine pour l’ensemble des familles d’avions. Cette application est destinée à être consulté devant client.
 - __Compétences :__ 
