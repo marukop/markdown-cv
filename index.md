@@ -3,7 +3,7 @@ layout: cv
 title: CV Marc Pezzetti
 ---
 # Marc Pezzetti
-Consultant Java / Tech Lead - 13 ans d'expériences
+Consultant Java / Tech Lead / DEV/OPS - 13 ans d'expériences
 
 
 <div id="webaddress">
