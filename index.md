@@ -3,7 +3,7 @@ layout: cv
 title: CV Marc Pezzetti
 ---
 # Marc Pezzetti
-Consultant Java / Tech Lead / DEV/OPS - 13 ans d'expériences - TJM: 600 € HT
+Consultant Java / Tech Lead / DEV/OPS - 14 ans d'expériences - TJM: 600 € HT
 
 
 <div id="webaddress">
