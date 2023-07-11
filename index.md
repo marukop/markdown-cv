@@ -3,7 +3,7 @@ layout: cv
 title: CV Marc Pezzetti
 ---
 # Marc Pezzetti
-Consultant Java / Tech Lead / DEV/OPS - 14 ans d'expériences - TJM: 600 € HT
+Consultant Java / Tech Lead / DEV/OPS - 15 ans d'expériences - TJM: 600 € HT
 
 
 <div id="webaddress">
@@ -45,6 +45,8 @@ __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
 - __DOUANE (DGDDI) :__
+  - Pôle Accise:
+    - Projet Refonte Gamma: Ce projet permet la déclaration et le suivi de mouvements de produits pour les entreprises.
   - Pôle Fiscalité : 
     - Projet MVV : Ce projet permet la création et la consultation de Mouvements VitiVinicoles pour les entreprises.
     - Projet FIDEL : Ce projet permet la consultation des fiches d'identités des entreprises.
@@ -59,7 +61,7 @@ __Sopra Steria Group__, Toulouse
 - __Compétences :__
   - Encadrement technique
   - Kubernetes, Helm, Docker, Gitlab CI, Jenkins
-  - Java 8/11, Spring Boot, Angular 7
+  - Java 8/11/17, Spring Boot, Angular 7/14
 
 
 `05/2019 - 06/2020`
