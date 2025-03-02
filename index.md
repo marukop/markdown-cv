@@ -3,7 +3,7 @@ layout: cv
 title: CV Marc Pezzetti
 ---
 # Marc Pezzetti
-Consultant Java / Tech Lead / DEV/OPS - 15 ans d'expériences - TJM: 600 € HT
+Consultant Java / Tech Lead / DEV/OPS - 17 ans d'expériences - TJM: 600 € HT
 
 
 <div id="webaddress">
@@ -22,12 +22,12 @@ Architecture backend
 
 ## Compétences
 
-* __Langages :__ Java, Javascript
-* __BDD :__ Mysql, Oracle, MongoDB ...
+* __Langages :__ Java, Javascript / Typescript
+* __BDD :__ Mysql, Oracle, MongoDB, MS SQL ...
 * __Méthodes et outils :__ Git, IntellIJ, Eclipse
 * __Forges logicielles :__ Gitlab, Jenkins, Ansible
 * __Frameworks :__ Spring, JHipster, Angular, ...
-* __Devops :__ Kubernetes, Docker, OpenShift
+* __Devops :__ Kubernetes, Docker, OpenShift, Helm
 
 ## Formation
 
@@ -44,6 +44,8 @@ __BAC S__
 __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
+- __Airbus (DGDDI) :__
+  - Projet MyeBCS: Ce projet permet la saisie de contrat pour l'achat d'avions.
 - __DOUANE (DGDDI) :__
   - Pôle Accise:
     - Projet Refonte Gamma: Ce projet permet la déclaration et le suivi de mouvements de produits pour les entreprises.
@@ -61,7 +63,7 @@ __Sopra Steria Group__, Toulouse
 - __Compétences :__
   - Encadrement technique
   - Kubernetes, Helm, Docker, Gitlab CI, Jenkins
-  - Java 8/11/17, Spring Boot, Angular 7/14
+  - Java 8/11/17, Spring Boot, Angular 7/14/17, Spring JPA / Hibernate
 
 
 `05/2019 - 06/2020`
