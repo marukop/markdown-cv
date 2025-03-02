@@ -44,7 +44,7 @@ __BAC S__
 __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
-- __Airbus (DGDDI) :__
+- __Airbus :__
   - Projet MyeBCS: Ce projet permet la saisie de contrat pour l'achat d'avions.
 - __DOUANE (DGDDI) :__
   - Pôle Accise:
