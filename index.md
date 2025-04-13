@@ -40,7 +40,7 @@ __BAC S__
 
 ## Missions
 
-`Depuis 07/2020`
+`07/2020 - 04/2025`
 __Sopra Steria Group__, Toulouse
 {: .hrtde }
 - __Rôle :__ Technical Leader
@@ -62,7 +62,7 @@ __Sopra Steria Group__, Toulouse
     - Projet Simulateur de Mutation : Industrialisation d'un POC (Proof Of Concept) pour permettre aux agents douaniers de connaître les statistiques sur attributions des mutations sur un barême de points. 
 - __Compétences :__
   - Encadrement technique
-  - Kubernetes, Helm, Docker, Gitlab CI, Jenkins
+  - Kubernetes / OpenShift, Helm, Docker, Gitlab CI, Jenkins, Git
   - Java 8/11/17, Spring Boot, Angular 7/14/17, Spring JPA / Hibernate
 
 
@@ -341,7 +341,7 @@ Développement logiciel, Films, Animation, Sports
 
 <!-- ### Footer
 
-Dernière mise à jour : 26/05/2020
+Dernière mise à jour : 13/04/2025
 
 -->
 
